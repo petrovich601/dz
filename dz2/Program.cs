@@ -3,8 +3,14 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.Write("Введите число N:");
-int nam = Convert.ToInt32(Console.ReadLine());
-int nam3 = nam3 = nam / 100;
-int nam2 = (nam - (nam3 *100)) / 10;
-Console.WriteLine(nam2);
+// Console.Write("Введите число N:");
+// int nam = Convert.ToInt32(Console.ReadLine());
+// int nam3 = nam3 = nam / 100;
+// int nam2 = (nam - (nam3 *100)) / 10;
+// Console.WriteLine(nam2);
+
+
+// Задача 13: Напишите программу, которая выводит третью цифру СЛЕВА заданного числа или сообщает, что третьей цифры нет.
+// 645 -> 5
+// 78 -> третьей цифры нет
+// 3267912 -> 6
